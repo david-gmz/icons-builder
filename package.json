@@ -1,0 +1,19 @@
+{
+  "name": "lucide-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "David Gómez Becerril",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "vite": "^8.0.13"
+  },
+  "dependencies": {
+    "lucide": "^1.16.0"
+  }
+}

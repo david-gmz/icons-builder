@@ -1,0 +1,6 @@
+*.exe
+*.txt
+*-lock.yaml
+node_modules/
+*-test.*
+*-old.*
