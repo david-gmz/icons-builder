@@ -1,6 +1,6 @@
 # Lucide Icons Builder with Vite
 
-If you nedd icons for your webapp and you are using **vanilla PHP** This is a very simple approach. You create a separate mini Vite project, build it once, and just copy the output JS file into your PHP project. No CORS, no complex integration.
+If you need icons for your webapp and you are using **vanilla PHP** This is a very simple approach. You create a separate mini Vite project, build it once, and just copy the output JS file into your PHP project. No CORS, no complex integration.
 
 ## The workflow becomes:
 
